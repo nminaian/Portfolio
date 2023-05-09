@@ -117,18 +117,18 @@ Press the `S` key to view the speaker notes!
 
 ## Themes
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
+- black: Black background, white text, pink links (default)
+- white: White background, black text, pink links
+- league: Gray background, white text, pink links
 - beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+- sky: Blue background, thin dark text, pink links
 
 ---
 
 - night: Black background, thick white text, orange links
 - serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+- simple: White background, black text, pink links
+- solarized: Cream-colored background, dark green text, pink links
 
 ---
 
